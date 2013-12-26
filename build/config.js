@@ -5,7 +5,7 @@ h5-test/config
 
 */
 /**
- * http://g.tbcdn.cn/trip/h5-test/0.0.1/config.js
+ * http://g.tbcdn.cn/trip/h5-test/0.0.2/config.js
  */
 (function(){
     KISSY.config('tag', null); //去除?t时间戳
@@ -38,7 +38,7 @@ h5-test/config
                 {
                     name: 'h5-test',
                     // 修改 abc.json 中的 version 字段来生成版本号
-                    path: 'http://'+srcHost+'/trip/h5-test/0.0.1',
+                    path: 'http://'+srcHost+'/trip/h5-test/0.0.2',
                     ignorePackageNameInUri: true
                 }
             ]
