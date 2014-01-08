@@ -1,4 +1,5 @@
 {
+    //test
     "name": "h5-test",
     "desc": "description of your app",
     "type": "clam",
@@ -16,3 +17,6 @@
         "url": "https://github.com/yinqiao/work"
     }
 }
+
+
+
